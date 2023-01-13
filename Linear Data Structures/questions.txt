@@ -1,0 +1,49 @@
+What is data-structure?
+What are various data-structures available?
+What is algorithm?
+Why we need to do algorithm analysis?
+What are the criteria of algorithm analysis?
+What is asymptotic analysis of an algorithm?
+What are asymptotic notations?
+What is linear data structure?
+What are common operations that can be performed on a data-structure?
+Briefly explain the approaches to develop algorithms.
+Give some examples greedy algorithms.
+What are some examples of divide and conquer algorithms?
+What are some examples of dynamic programming algorithms?
+What is a linked-list?
+What is stack?
+Why do we use stacks?
+What operations can be performed on stacks?
+What is a queue in data-structure?
+Why do we use queues?
+What operations can be performed on Queues?
+What is linear searching?
+What is binary search?
+What is bubble sort and how bubble sort works?
+Tell me something about 'insertion sort'?
+What is selection sort?
+How insertion sort and selection sorts are different?
+What is merge sort and how it works?
+What is shell sort?
+How quick sort works?
+What is a graph?
+How depth first traversal works?
+How breadth first traversal works?
+What is a tree?
+What is a binary tree?
+What is a binary search tree?
+What is tree traversal?
+What is an AVL Tree?
+What is a spanning tree?
+How many spanning trees can a graph has?
+How Kruskal's algorithm works?
+How Prim's algorithm finds spanning tree?
+What is a minimum spanning tree (MST)?
+What is a heap in data structure?
+What is a recursive function?
+What is tower of hanoi?
+What is fibonacci series?
+What is hashing?
+What is interpolation search technique?
+What is the prefix and post fix notation of (a + b) * (c + d) ?
