@@ -1,0 +1,40 @@
+Stack is a linear data structure that follows a particular order in which the operations are performed. The order may be LIFO(Last In First Out) 
+or FILO(First In Last Out).
+
+Easy:
+1.Infix to Postfix Conversion using Stack
+2.Prefix to Infix Conversion
+3.Prefix to Postfix Conversion
+4.Postfix to Prefix Conversion
+5.Postfix to Infix
+6.Convert Infix To Prefix Notation
+7.Check for balanced parentheses in an expression
+8.Arithmetic Expression Evalution
+9.Evaluation of Postfix Expression
+10.Reverse a stack using recursion
+11.Reverse individual words
+12.Reverse a string using stack
+13.Reversing a Queue
+
+Medium : 
+
+1.How to create mergable stack?
+2.The Stock Span Problem
+3.Next Greater Element
+4.Next Greater Frequency Element
+5.Maximum product of indexes of next greater on left and right
+6.Iterative Tower of Hanoi
+7.Sort a stack using a temporary stack
+8.Reverse a stack without using extra space in O(n)
+9.Delete middle element of a stack
+10.Check if a queue can be sorted into another queue using a stack
+11.Check if an array is stack sortable
+12.Iterative Postorder Traversal | Set 1 (Using Two Stacks)
+13.Largest Rectangular Area in a Histogram | Set 2
+14.Find maximum of minimum for every window size in a given array
+15.Find index of closing bracket for a given opening bracket in an expression
+16.Find maximum difference between nearest left and right smaller elements
+17.Delete consecutive same words in a sequence
+18.Check mirror in n-ary tree
+19.Reverse a number using stack
+20.Reversing the first K elements of a Queue

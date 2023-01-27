@@ -1,0 +1,27 @@
+A Queue is defined as a linear data structure that is open at both ends and the operations are performed 
+in First In First Out (FIFO) order.
+
+FIFO Principle of Queue:
+ -A Queue is like a line waiting to purchase tickets, where the first person in line is the first person served. 
+(i.e. First come first serve).
+-Position of the entry in a queue ready to be served, that is, the first entry that will be removed from the queue,
+ is called the front of the queue(sometimes, head of the queue), similarly, the position of the last entry in the queue, 
+that is, the one most recently added, is called the rear (or the tail) of the queue.
+
+Characteristics of Queue:
+
+1.Queue can handle multiple data.
+2.We can access both ends.
+3.They are fast and flexible. 
+
+Easy:
+1.Queue – Linked List Implementation
+2.Implement Stack using Queues
+3.Queue using Stacks
+4.Detect cycle in an undirected graph using BFS
+5.Breadth First Search or BFS for a Graph
+6.Traversing directory in Java using BFS
+7.Vertical order traversal of Binary Tree using Map
+8.Print Right View of a Binary Tree
+9.Find Minimum Depth of a Binary Tree
+10.Check whether a given graph is Bipartite or not
